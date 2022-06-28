@@ -1,0 +1,2 @@
+# Telecom_Churn
+[EM CONSTRUÇÃO] Projeto destinado a encontrar um algoritmo ótimo que preveja os cancelamentos de assinaturas de uma empresa de telecomunicações, de modo à empresa atuar de forma ativa no combate ao churn  por meio de estratégias de retenção do cliente. Com o intuito de se atingir o objetivo primário, será feita uma análise dos atributos do conjunto de dados, de modo a se descobrir quais as variáveis mais influentes na evasão do consumidor.
